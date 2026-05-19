@@ -4,43 +4,28 @@
 
 # 👨‍💻 Oscar Martinez
 
-### Systems Engineer | IT Leader | Software Development & Project Management  
+### Systems Engineer | IT Leader  
+### Software Development & Project Management  
 ### Data, Infrastructure & Digital Transformation Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Enterprise+Software+Specialist;Full+Stack+Developer;Cloud+%26+Infrastructure;Digital+Transformation+Leader;Always+Building+Something+Amazing+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Software+Specialist;Full+Stack+Developer;Cloud+%26+Infrastructure;Digital+Transformation+Leader;Always+Building+Something+Amazing+🚀" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
 
-```yaml
-name: Oscar Martinez
-role: Systems Engineer & IT Leader
-education:
-  - Master's Degree in Information Technology Management
-  - Focus on Enterprise Software
-
-specialties:
-  - Software Development
-  - Project Management
-  - Data & Analytics
-  - Infrastructure
-  - Digital Transformation
-  - Cloud Solutions
-  - Business Technology
-
-currently_working_with:
-  - Enterprise Applications
-  - Cloud Infrastructure
-  - APIs & Automation
-  - Full Stack Development
-```
+- 🎓 Master's Degree in Information Technology Management  
+- 💼 IT Leader & Systems Engineer  
+- 🚀 Specialized in Enterprise Software & Digital Transformation  
+- ☁️ Passionate about Cloud, Infrastructure & DevOps  
+- 📊 Data Analytics & Business Technology Enthusiast  
+- 🌙 Late Night Coding Vibes  
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -88,75 +73,55 @@ currently_working_with:
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a"/>
+<br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0f172a"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌙 Late Night Coding Vibes
+# 🌙 Late Night Coding Vibes
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-### 🎧 Spotify Track
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
-
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🤝 Contact
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🤝 Contact
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:TU_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/TU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/TU_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/TU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram"/>
 </a>
 
 </div>
 
 ---
 
-## 💭 Quote
+# 💭 Quote
 
 <div align="center">
 
@@ -167,11 +132,11 @@ currently_working_with:
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563eb)
+![](https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=2563eb)
 
 </div>
 
