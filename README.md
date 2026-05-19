@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Oscar%20Martinez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Oscar%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👨‍💻 Oscar Martinez
 
@@ -8,7 +8,24 @@
 ### Software Development & Project Management  
 ### Data, Infrastructure & Digital Transformation Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Software+Specialist;Full+Stack+Developer;Cloud+%26+Infrastructure;Digital+Transformation+Leader;Always+Building+Something+Amazing+🚀" />
+<br>
+
+<img src="https://img.shields.io/badge/Enterprise_Software-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_&_Infrastructure-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital_Transformation-0f172a?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oscareduardomc&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oscareduardomc&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
