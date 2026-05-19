@@ -77,11 +77,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oscareduardomc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0f172a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oscareduardomc&theme=tokyonight&hide_border=true&background=0f172a"/>
 
 </div>
 
@@ -105,15 +105,15 @@
   <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://linkedin.com/in/oscareduardomc">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/TU_USERNAME">
+<a href="https://github.com/oscareduardomc">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://instagram.com/TU_INSTAGRAM">
+<a href="https://instagram.com/oscareduardomc">
   <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram"/>
 </a>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=2563eb)
+![](https://komarev.com/ghpvc/?username=oscareduardomc&style=for-the-badge&color=2563eb)
 
 </div>
 
