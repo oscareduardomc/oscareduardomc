@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Oscar%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Oscar%20Martinez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👨‍💻 Oscar Martinez
 
@@ -8,7 +8,7 @@
 ### Software Development & Project Management  
 ### Data, Infrastructure & Digital Transformation Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Software+Specialist;Full+Stack+Developer;Cloud+%26+Infrastructure;Digital+Transformation+Leader;Always+Building+Something+Amazing+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Software+Specialist;Full+Stack+Developer;Cloud+%26+Infrastructure;Digital+Transformation+Leader;Always+Building+Something+Amazing+🚀" />
 
 </div>
 
@@ -77,9 +77,11 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=oscareduardomc&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oscareduardomc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscareduardomc&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oscareduardomc&theme=tokyonight&hide_border=true&background=0f172a"/>
 
 </div>
 
@@ -100,19 +102,19 @@
 <div align="center">
 
 <a href="mailto:TU_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/oscareduardomc">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/oscareduardomc">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://instagram.com/oscareduardomc">
-<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/TU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram"/>
 </a>
 
 </div>
@@ -134,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=oscareduardomc&style=for-the-badge&color=2563eb"/>
+![](https://komarev.com/ghpvc/?username=oscareduardomc&style=for-the-badge&color=2563eb)
 
 </div>
 
