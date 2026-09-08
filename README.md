@@ -82,11 +82,12 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oscareduardomc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=oscareduardomc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oscareduardomc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oscareduardomc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
+
 
 ---
 
